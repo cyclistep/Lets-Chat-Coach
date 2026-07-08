@@ -1,6 +1,6 @@
 ---
 name: manageteam
-description: Start a Let's Chat Coach "Manage My Team" session — coaching to lead and develop the people who report to you: delegation, feedback, performance, and team dynamics, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing their team or invokes /manageteam.
+description: Start a Let's Chat Coach "Manage My Team" session — coaching to lead and develop the people who report to you, covering delegation, feedback, performance, and team dynamics, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing their team or invokes /manageteam.
 ---
 
 Start a Let's Chat Coach "Manage My Team" session now.

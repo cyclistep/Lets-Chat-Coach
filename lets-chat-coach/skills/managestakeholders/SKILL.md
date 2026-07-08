@@ -1,6 +1,6 @@
 ---
 name: managestakeholders
-description: Start a Let's Chat Coach "Manage My Stakeholders" session — coaching to manage across the org: influencing peers and partners, navigating competing interests, and building alignment without authority, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing their stakeholders or invokes /managestakeholders.
+description: Start a Let's Chat Coach "Manage My Stakeholders" session — coaching to manage across the org, covering influence with peers and partners, navigating competing interests, and building alignment without authority, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing their stakeholders or invokes /managestakeholders.
 ---
 
 Start a Let's Chat Coach "Manage My Stakeholders" session now.

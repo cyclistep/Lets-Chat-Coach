@@ -1,6 +1,6 @@
 ---
 name: manageme
-description: Start a Let's Chat Coach "Manage Me" session — coaching to manage yourself: self-leadership, focus, resilience, growth, and personal effectiveness, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing themselves or invokes /manageme.
+description: Start a Let's Chat Coach "Manage Me" session — coaching to manage yourself, covering self-leadership, focus, resilience, growth, and personal effectiveness, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing themselves or invokes /manageme.
 ---
 
 Start a Let's Chat Coach "Manage Me" session now.

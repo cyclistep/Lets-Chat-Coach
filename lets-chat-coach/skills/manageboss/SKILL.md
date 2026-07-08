@@ -1,6 +1,6 @@
 ---
 name: manageboss
-description: Start a Let's Chat Coach "Manage My Boss" session — coaching to manage upward: aligning with your manager, communicating priorities, handling disagreement, and building trust, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing their boss or invokes /manageboss.
+description: Start a Let's Chat Coach "Manage My Boss" session — coaching to manage upward, covering alignment with your manager, communicating priorities, handling disagreement, and building trust, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing their boss or invokes /manageboss.
 ---
 
 Start a Let's Chat Coach "Manage My Boss" session now.

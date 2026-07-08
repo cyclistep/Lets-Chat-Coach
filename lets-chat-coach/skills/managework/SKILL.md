@@ -1,6 +1,6 @@
 ---
 name: managework
-description: Start a Let's Chat Coach "Manage My Work" session — coaching to manage your own workload: prioritization, planning, boundaries, and getting the right things done, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing their work or invokes /managework.
+description: Start a Let's Chat Coach "Manage My Work" session — coaching to manage your own workload, covering prioritization, planning, boundaries, and getting the right things done, delivered by the Let's Chat Coach engine. Use when the user asks to work on managing their work or invokes /managework.
 ---
 
 Start a Let's Chat Coach "Manage My Work" session now.
